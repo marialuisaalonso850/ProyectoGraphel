@@ -1,0 +1,314 @@
+* {
+    margin: 0;
+
+    box-sizing: border-box;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    float: left;
+    margin-top: 45px;
+}
+
+.uno {
+    margin: 0;
+    padding: 0 200px;
+    background: #24282B;
+    color: white;
+    border-bottom: 8px solid #1293D4;
+    width: 100%;
+    height: 130px;
+    font-size: 25px;
+
+}
+
+span {
+    color: #1293D4;
+}
+
+.menu {
+
+    margin-top: 60px;
+    display: flex;
+    float: right;
+    width: 30%;
+    list-style: none;
+    
+
+}
+
+.letra {
+    margin-top: 500px;
+    float: left;
+
+}
+
+
+.menu a  {
+   
+    margin-left: 15px;
+    text-decoration: none;
+}
+.blanca {
+    color: aliceblue;
+   
+
+}
+
+.azul{
+    color: #1293D4;
+}
+
+
+.crear {
+
+    background-image: url("../images/cabecera.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+h2 {
+    font-size: 60px;
+    float: left;
+    margin-left: 451px;
+    margin-top: 244px;
+    color: aliceblue;
+
+}
+
+footer {
+    background: #1293D4;
+    height: 100px;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+
+h6 {
+    float: right;
+    margin-right: 800px;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 30px;
+    float: left;
+    color: white;
+    margin-top: 29px;
+    text-align: center;
+    width: 1900px;
+}
+
+h4 {
+    padding-top: 30px;
+    padding-left: 200px;
+    background: #24282B;
+    height: 100px;
+    color: white;
+    font-size: 25px;
+}
+
+.gmail {
+    float: right;
+    margin-right: 300px;
+    margin-top: -70px;
+    height: 30px;
+}
+
+.im1 {
+    float: right;
+    text-align: center;
+    width: 400px;
+    margin-right: 1300px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.im2 {
+    float: right;
+    text-align: center;
+    width: 400px;
+    margin-right: 750px;
+    margin-top: -260px;
+    margin-bottom: 6px;
+}
+
+.sed {
+    width: 120px;
+}
+
+.im3 {
+    float: right;
+    text-align: center;
+    margin-right: 250px;
+    width: 400px;
+    margin-top: -270px;
+    margin-bottom: 50px;
+
+}
+
+h5 {
+    font-size: 20px;
+}
+
+.boton {
+    border: 8px solid #E8491D;
+    background: #E8491D;
+    float: right;
+    margin-right: 200px;
+    margin-top: -70px;
+    color: white;
+}
+
+.clear {
+    clear: both;
+}
+
+.ima1 {
+    height: 580px;
+    width: 100%;
+}
+
+.quiubo {
+    font-size: 20px;
+
+}
+
+.este {
+    float: right;
+    background: #35424A;
+    color: white;
+    width: 1000px;
+    margin-right: 700px;
+    font-size: 30px;
+    margin-top: 80px;
+    padding: 20px 20px 20px 20px;
+}
+
+
+.esto {
+    padding: 20px 20px 20px 20px;
+    float: right;
+    background: #35424A;
+    color: white;
+    margin-right: 200px;
+    width: 400px;
+    margin-top: -400px;
+    font-size: 20px;
+}
+
+.noso {
+    float: right;
+    margin-right: 700px;
+    width: 1000px;
+    height: 100px;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.nos {
+    font-size: 35px;
+}
+
+
+
+.yo {
+    float: right;
+    height: 250px;
+    width: 1000px;
+    margin-right: 700px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.titulo {
+   float: left;
+   margin-left: 170px;
+}
+
+.dis1 {
+    color: black;
+    font-size: 20px;
+    background: none;
+}
+
+.par1 {
+    color: black;
+    float: right;
+    margin-right: 800px;
+    background: #E6E6E6;
+    width: 900px;
+    margin-top: 50px;
+    padding: 40px 20px 40px 20px;
+}
+.par2{
+    color: black;
+    float: right;
+    background: #E6E6E6;
+    padding: 40px 20px 40px 20px;
+    margin-right: 800px;
+    width: 900px;
+    margin-top: 10px;
+margin-bottom: 10px;
+}
+.els{
+    padding: 20px 20px 20px 20px;
+    float: right;
+    background: #35424A;
+    color: white;
+    margin-right: 200px;
+    width: 400px;
+    margin-top: -700px;
+    font-size: 20px;
+}
+.conti{
+    font-size: 30px;
+    float: left;
+    margin-left: 200px;
+}
+.envio{
+    border: 8px solid #E8491D;
+    background: #E8491D;
+    float: right;
+  width: 900px;
+    color: white;
+}
+.formulario{
+   float: left;
+   margin-left: 200px;
+}
+.nombre , .gmailcito, .numero , .celular , .area{ 
+width: 900px;
+height: 40px;
+}
+.area{
+    height: 150px;
+}
+.aqui{
+    padding: 20px 20px 20px 20px;
+    float: right;
+    background: #35424A;
+    color: white;
+    margin-right: 200px;
+    width: 400px;
+    margin-top: -450px;
+    font-size: 20px;
+}
+.mapita{
+    width: 400px;
+    float: right;
+    margin-right: 200px;
+    margin-top: -240px;
+    height: 250px;
+    margin-bottom: 50px;
+}
+.ulti{
+    height: 140px;
+    margin-top: 20px;
+}
